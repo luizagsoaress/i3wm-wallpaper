@@ -90,9 +90,9 @@ Pronto! Para adicionar mais imagens basta editar o **wallpaper_script.sh**
 
 ## Exemplo
 
-[wallpaper]("./exemplo/wallpaper_exemplo.png")
+![wallpaper]("./exemplo/wallpaper_exemplo.png")
 
-[tema]("./exemplo/tema_exemplo.png")
+![tema]("./exemplo/tema_exemplo.png")
 
 
 
