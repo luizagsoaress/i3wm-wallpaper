@@ -38,7 +38,7 @@ sudo apt install feh
 
 ```
 
-Renomeie todos os seus wallpapers para um **valor x sequencial onde x > 0 e  x < que a quantidade de wallpapers**, por exemplo se você tiver 2 imagens .jpg:
+Renomeie todos os seus wallpapers para um **valor x sequencial onde x > 0 e  x < que a quantidade de wallpapers**, por exemplo se você tiver 2 imagens:
 
 > 1.jpg
 
@@ -87,6 +87,12 @@ exec_always --no-startup-id ~/.config/i3/wallpaper_script.sh
 ```
 
 Pronto! Para adicionar mais imagens basta editar o **wallpaper_script.sh**
+
+## Exemplo
+
+[wallpaper]("./exemplo/wallpaper_exemplo.png")
+
+[tema]("./exemplo/tema_exemplo.png")
 
 
 
