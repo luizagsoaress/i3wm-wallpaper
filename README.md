@@ -38,7 +38,7 @@ sudo apt install feh
 
 ```
 
-Renomeie todos os seus wallpapers para um **valor x sequencial onde x > 0 e  x < que a quantidade de wallpapers**, por exemplo se você tiver 2 imagens:
+Renomeie todos os seus wallpapers para um **valor x sequencial onde x > 0 e  x < que a quantidade de wallpapers**, por exemplo se você tiver 2 imagens .jpg:
 
 > 1.jpg
 
