@@ -4,6 +4,25 @@
 
 Um pequeno script que altera o wallpaper a cada "shutdown" da máquina, no i3wm. Para cada wallpaper o tema é atualizado automaticamente para combinar com as cores gerais da imagem.
 
+## Sumário
+
+- [Configuração rápida](#configuração-rápida)
+- [Passo a passo](#como-usar)
+
+## Configuração rápida
+
+Clone o repositório e execute o makefile:
+
+```
+
+git clone "https://github.com/luizagsoaress/i3wm-wallpaper.git"
+cd i3wm-wallpaper
+
+make install
+make run
+
+```
+
 ## Como usar?
 
 Para executar a tarefa, vamos usar a ferramenta **wpgtk**, então, antes de tudo, siga os passos abaixo para baixá-la:
