@@ -90,9 +90,11 @@ Pronto! Para adicionar mais imagens basta editar o **wallpaper_script.sh**
 
 ## Exemplo
 
-![wallpaper](./exemplo/wallpaper_exemplo.png)
-
-![tema](./exemplo/tema_exemplo(2).png)
-
+<table>
+  <tr>
+    <td><img src="./exemplo/wallpaper_exemplo.png" width="400"/></td>
+    <td><img src="./exemplo/tema_exemplo(2).png" width="400"/></td>
+  </tr>
+</table>
 
 
